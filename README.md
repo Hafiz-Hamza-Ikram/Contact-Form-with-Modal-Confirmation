@@ -6,19 +6,19 @@ A responsive and user-friendly contact form built with **HTML**, **CSS**, and **
 
 ## 🔧 Features
 
-- 📱 Fully responsive (mobile-first)
-- ✅ JavaScript form validation:
-  - ✏️ Required fields
-  - 📧 Valid email format check
-- 📨 Modal dialog box for submission confirmation
-- 🚫 Prevents page reload on submit
-- 🎨 Clean and modern layout
+📱 Fully responsive (mobile-first) 
+✅ JavaScript form validation:
+  - Required fields
+  - Valid email format check
+📨 Modal dialog box for submission confirmation
+🚫 Prevents page reload on submit
+🎨 Clean and modern layout
 
 ---
 
 ## 🔗 Live Demo
 
-🌐 [View Live](https://yourusername.github.io/responsive-contact-form/)
+🌐 [Click here to View Live](https://hafiz-hamza-ikram.github.io/Contact-Form-with-Modal-Confirmation/)
 
 ---
 
